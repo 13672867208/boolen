@@ -1,0 +1,35 @@
+.el-form .el-form-item .el-form-item__content .el-select {
+  width: 100%;
+}
+
+.el-form .el-form-item .el-form-item__content .el-input .el-input__inner {
+  border-radius: 0;
+  height: 30px;
+}
+
+.el-button {
+  padding: 0 15px;
+  border-radius: 0;
+  height: 30px;
+  line-height: 30px;
+  text-align: center;
+}
+
+ul {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+.el-message-box__wrapper .el-message-box {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  width: 80%;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+}
